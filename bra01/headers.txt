@@ -1,0 +1,5 @@
+accept-encoding: gzip, deflate, br
+accept-language: zh-CN,zh;q=0.9
+cookie: t=53d808c9a49d0e66e9c30306d6a56c41; cookie2=387f13c980f7622db3b05994aaf1c941; v=0; _tb_token_=e358633501b35; cna=dingEyKDpGMCAT2Q+BEoyN9H; UM_distinctid=164d49044df7ac-07931a98559fc4-5b193413-100200-164d49044e06d6; thw=cn; miid=8988735091935647320; hng=CN%7Czh-CN%7CCNY%7C156; enc=Y9mQ6nkfyyP6l3tTCFbQ%2B9AWIZHOmeVj%2F%2BaKyA0vBGimsVcx5sULNhwY5HAUjQhkL5sntoxkG0kQKht%2FGsW7QQ%3D%3D; isg=BMLCtHMKLcSUHjGYBz42m0FQE8hHnwpKjrToEgzZOzX8X2fZ9SIRvCH5CxuGaz5F
+referer: https://item.taobao.com/item.htm?id=38621807169&ali_trackid=2:mm_100162583_8888362_29964673:1532574602_325_1935647320&spm=a231o.7712113%2Fa.1004.123&pvid=200_11.224.194.140_330_1532574594038
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
